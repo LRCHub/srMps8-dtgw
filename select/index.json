@@ -1,0 +1,121 @@
+{
+  "version": 1,
+  "base_track": "サウダージ",
+  "base_artist": "ポルノグラフィティ",
+  "createdAt": "2026-03-25T15:00:32.786404Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "サウダージ - From THE FIRST TAKE",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/01_サウダージ_-_From_THE_FIRST_TAKE_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "サウダージ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/02_サウダージ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "サウダージ",
+      "artist": "中森明菜",
+      "has_synced": false,
+      "path": "select/03_サウダージ_中森明菜.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "サウダージ",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/04_サウダージ_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "ポルノグラフィティ『サウダージ』MUSIC VIDEO",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/05_ポルノグラフィティ『サウダージ』MUSIC_VIDEO_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "サウダージ - From THE FIRST TAKE",
+      "artist": "PornoGraffitti",
+      "has_synced": true,
+      "path": "select/06_サウダージ_-_From_THE_FIRST_TAKE_PornoGraffitti.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "サウダージ",
+      "artist": "Ms.OOJA",
+      "has_synced": false,
+      "path": "select/07_サウダージ_Ms.OOJA.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "サウダージ “D”tour style",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/08_サウダージ_“D”tour_style_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "サウダージ",
+      "artist": "Crystal Kay",
+      "has_synced": true,
+      "path": "select/09_サウダージ_Crystal_Kay.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "サウダージ - Saudade",
+      "artist": "Porno Graffitti",
+      "has_synced": true,
+      "path": "select/10_サウダージ_-_Saudade_Porno_Graffitti.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "サウダージ - From THE FIRST TAKE",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/11_サウダージ_-_From_THE_FIRST_TAKE_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "サウダージ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/12_サウダージ_ポルノグラフィティ.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "サウダージ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": false,
+      "path": "select/pl_01_サウダージ_ポルノグラフィティ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "サウダージ",
+      "artist": "ポルノグラフィティ",
+      "has_synced": true,
+      "path": "select/localdb_01_サウダージ_ポルノグラフィティ.lrc",
+      "repo_name": "lzsB4eKPdJI"
+    }
+  ]
+}
